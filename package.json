@@ -43,7 +43,7 @@
   "dependencies": {
     "execa": "^0.8.0",
     "is-jpg": "^1.0.0",
-    "mozjpeg": "^5.0.0"
+    "mozjpeg": "git+https://github.com/sevaru/mozjpeg-bin"
   },
   "devDependencies": {
     "ava": "*",
